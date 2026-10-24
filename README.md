@@ -1,2 +1,3 @@
 # Ajay-Departmental-Store
-Ajay Departmental Store
+![Uploading image.png…]()
+
